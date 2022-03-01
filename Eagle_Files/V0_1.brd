@@ -155,8 +155,8 @@
 <text x="66.04" y="41.91" size="1.778" layer="121">MX6</text>
 <text x="91.44" y="67.31" size="1.778" layer="121" rot="R180">ENC1</text>
 <text x="91.44" y="48.26" size="1.778" layer="121" rot="R180">ENC2</text>
-<text x="43.18" y="76.2" size="2.286" layer="121">MacrowPad</text>
 <text x="83.82" y="58.42" size="1.778" layer="121" rot="R180">https://github.com/TylerMWebster/MacrowPad</text>
+<text x="39.37" y="76.2" size="2.286" layer="121">MacrowPad V0.1</text>
 </plain>
 <libraries>
 <library name="SparkFun-Switches" urn="urn:adsk.eagle:library:535">
